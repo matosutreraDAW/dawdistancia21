@@ -11,6 +11,17 @@
         function cuadrado($núm) {
             return $núm * $núm;
         }
+	/**
+         * funcion que devuelve suma de un numero como pará$
+         * @param type $núm parámetro introducido
+         * @return type suma
+         * @author Jose Antonio
+         * @internal
+         * @version
+         */
+        function cuadrado($núm) {
+            return $núm * $núm;
+        }
 
         /**funcion que realiza suma, resta o multiplica, según indiquemos por parámetro, dos numeros introducidos por paramétro
          * y devuelve su resultado
